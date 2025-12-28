@@ -8,10 +8,10 @@
   <br><br>
   
   <p align="center">
-    <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot"><img src="https://img.shields.io/github/stars/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=FF69B4" alt="GitHub stars"></a>
-    <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot/network/members"><img src="https://img.shields.io/github/forks/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=DA70D6" alt="GitHub forks"></a>
+    <a href="https://github.com/Renanvargas/Vemonbot2.git"><img src="https://img.shields.io/github/stars/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=FF69B4" alt="GitHub stars"></a>
+    <a href="https://github.com/Renanvargas/Vemonbot2.git"><img src="https://img.shields.io/github/forks/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=DA70D6" alt="GitHub forks"></a>
     <img src="https://img.shields.io/github/license/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&color=87CEEB" alt="License">
-    <a href="https://api.whatsapp.com/send/?phone=18294868853&text=Hola,+vengo+de+GitHub+y+necesito+soporte+con+Ruby+Bot&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support WhatsApp"></a>
+    <a href="https://chat.whatsapp.com/C6QnvzmXizT4qjWuBJ4Qzm"></a>
   </p>
 
   <img src="https://files.catbox.moe/atnv7f.gif" alt="Ruby Hoshino Bot Preview" width="350"/>
@@ -27,7 +27,7 @@
 > Úsalo bajo tu propio riesgo teniendo en cuenta esta advertencia.
 
 
-> **`Ruby Hoshino - Bot`** Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
+> **`Ruby Hoshino - Bot`** Es una versión **personalizada del trabajo original de [vemonbot Wa Bot](https://github.com/Renanvargas/Vemonbot2.git)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
  ¡Úsalo con responsabilidad y diviértete! 💖
 
 -----
@@ -36,7 +36,7 @@
 
 > ¿Quieres ver la magia de Ruby antes de instalar? ¡Únete a la comunidad y pruébalo! 💖
 
-[**Únete al Grupo Oficial**](https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR)
+[**Únete al Grupo Oficial**](https://chat.whatsapp.com/C6QnvzmXizT4qjWuBJ4Qzm)
 
 -----
 
@@ -180,8 +180,9 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 
 * Dashboard : [`Dash`](https://home.akirax.net)
 * Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+* Canal de WhatsApp : [`Aqui`](‎Siga o canal "Vemonbot" no WhatsApp
+(https://whatsapp.com/channel/0029VbBeG1wJENy4GKdY0i0Z)
+* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/C6QnvzmXizT4qjWuBJ4Qzm)
 
 </details>
 
@@ -197,8 +198,8 @@ href="https://dash.quintillisas.com"><img src="https://files.catbox.moe/rem95g.p
 
 * Dashboard : [`Dash`](https://dash.quintillisas.com)
 * Panel : [`Panel`](https://panel.quintillisas.com)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBBXTr5fM5flFaxsO06)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/DWnpVoJgxe25H9nXNCcfCn)
+* Canal de WhatsApp : [`Aqui`](‎Siga o canal "Vemonbot" no WhatsApp: https://whatsapp.com/channel/0029VbBeG1wJENy4GKdY0i0Z)
+* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/C6QnvzmXizT4qjWuBJ4Qzm)
 
 </details>
 
